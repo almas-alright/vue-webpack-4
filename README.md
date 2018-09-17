@@ -1,3 +1,3 @@
 # vue-webpack-4
 ```
-configuraing vue js and other plugins and loadder with webpack 4
+configuring vue js and other plugins and loaders with webpack 4
